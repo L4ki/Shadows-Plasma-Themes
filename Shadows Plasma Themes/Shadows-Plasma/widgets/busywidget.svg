@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="32"
+   height="32"
+   version="1.1"
+   id="svg25"
+   sodipodi:docname="busywidget.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview27"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="3.6807432"
+     inkscape:cx="5.9770537"
+     inkscape:cy="28.391005"
+     inkscape:window-width="1920"
+     inkscape:window-height="1005"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg25">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1275"
+       originx="0"
+       originy="-2e-09" />
+  </sodipodi:namedview>
+  <defs
+     id="Kruna">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+   .ColorScheme-Background {color:#181818; } .ColorScheme-ButtonBackground { color:#343434; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-ViewBackground { color:#242424; } .ColorScheme-NegativeText { color:#f44336; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NeutralText { color:#ff9800; }
+  </style>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1002">
+      <stop
+         style="stop-color:#4e99ca;stop-opacity:0.80000001"
+         offset="0"
+         id="stop998" />
+      <stop
+         style="stop-color:#20ffff;stop-opacity:0.80000001"
+         offset="0.49896395"
+         id="stop1616" />
+      <stop
+         style="stop-color:#ffaeff;stop-opacity:0.8"
+         offset="1"
+         id="stop1000" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1002"
+       id="linearGradient1004-6"
+       x1="-0.084412813"
+       y1="65.765846"
+       x2="126.86995"
+       y2="65.765846"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.18904431,0,0,0.18904431,4.015958,3.5673391)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1002"
+       id="linearGradient2331"
+       gradientUnits="userSpaceOnUse"
+       x1="13.574917"
+       y1="42.709412"
+       x2="72.268715"
+       y2="42.709412" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1002"
+       id="linearGradient2333"
+       gradientUnits="userSpaceOnUse"
+       x1="-0.084412813"
+       y1="65.765846"
+       x2="126.86995"
+       y2="65.765846" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1002"
+       id="linearGradient1846-1-2"
+       x1="13.574917"
+       y1="42.709412"
+       x2="72.268715"
+       y2="42.709412"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1002"
+       id="linearGradient1004-9-7"
+       x1="-0.084412813"
+       y1="65.765846"
+       x2="126.86995"
+       y2="65.765846"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <rect
+     id="hint-rotation-angle"
+     style="opacity:0.01;fill:#008080"
+     width="3.704"
+     height="3.704"
+     x="-44"
+     y="-8.9999981" />
+  <g
+     id="busywidget">
+    <g
+       id="g2597">
+      <rect
+         style="opacity:0.00100002;stroke-width:7.55965"
+         width="32"
+         height="32"
+         x="0"
+         y="0"
+         id="rect15" />
+      <rect
+         id="rect4416"
+         x="4.9658202e-09"
+         height="32"
+         width="32"
+         y="3.1103515e-09"
+         style="fill:none;stroke-width:1.63525" />
+    </g>
+    <rect
+       style="opacity:0.00100002;stroke-width:5.66974"
+       width="23.999998"
+       height="23.999998"
+       x="4.0000005"
+       y="4.0000005"
+       id="rect10-9" />
+    <g
+       id="g1161-3-3"
+       transform="matrix(0.18749999,0,0,0.18749999,4.1138564,3.6689054)">
+      <path
+         id="L4k1-60-6"
+         style="color:#31363b;fill:none;fill-opacity:1;stroke:url(#linearGradient2331);stroke-width:7.80983;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.823529"
+         class="ColorScheme-Text"
+         sodipodi:type="arc"
+         sodipodi:cx="63.199684"
+         sodipodi:cy="66.049332"
+         sodipodi:rx="45.729721"
+         sodipodi:ry="45.729721"
+         sodipodi:start="3.1623688"
+         sodipodi:end="4.8255573"
+         sodipodi:open="true"
+         sodipodi:arc-type="arc"
+         d="M 17.479832,65.099313 A 45.729721,45.729721 0 0 1 33.100361,31.622044 45.729721,45.729721 0 0 1 68.3638,20.61213" />
+      <rect
+         id="rect4416-6-0"
+         x="-0.60723114"
+         height="128"
+         width="128"
+         y="1.7658463"
+         style="fill:none;stroke-width:6.541" />
+      <circle
+         r="61.678532"
+         cy="65.765846"
+         cx="63.392769"
+         class="ColorScheme-Text"
+         style="color:#31363b;fill:none;fill-opacity:1;stroke:url(#linearGradient2333);stroke-width:3.5973;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="Kruna-2-6" />
+    </g>
+  </g>
+  <g
+     id="stopped"
+     transform="translate(36,-0.0155613)">
+    <rect
+       style="opacity:0.00100002;stroke-width:3.77956"
+       width="31.997778"
+       height="31.997778"
+       x="0.0022231287"
+       y="0.017785404"
+       id="rect20" />
+    <circle
+       r="11.659975"
+       cy="16"
+       cx="16"
+       class="ColorScheme-Text"
+       style="color:#31363b;fill:none;fill-opacity:1;stroke:url(#linearGradient1004-6);stroke-width:0.680049;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="Kruna-92" />
+  </g>
+  <g
+     id="22-22-busywidget"
+     transform="translate(-26.016109,10.011669)">
+    <g
+       id="g2988"
+       transform="translate(26.016109,-10.011669)">
+      <g
+         id="g2678"
+         transform="matrix(3.7773007,0,0,3.7773007,-50.967958,-7.9682836)">
+        <rect
+           style="opacity:0.00100002"
+           width="5.8200002"
+           height="5.8200002"
+           x="6.6100001"
+           y="4.7600002"
+           id="rect5" />
+        <g
+           id="g1161-5"
+           transform="matrix(0.04550207,0,0,0.04550207,6.6333656,4.6796506)">
+          <rect
+             id="rect4416-2"
+             x="-0.60723114"
+             height="128"
+             width="128"
+             y="1.7658463"
+             style="fill:none;stroke-width:6.541" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="16-16-busywidget-9"
+       transform="translate(47,-13)">
+      <rect
+         style="opacity:0.00100002;stroke-width:3.77983"
+         width="16"
+         height="16"
+         x="-44"
+         y="16"
+         id="rect10-2" />
+      <g
+         id="g1161-3-0"
+         transform="matrix(0.125,0,0,0.125,-43.924096,15.77927)">
+        <path
+           id="L4k1-60-2"
+           style="color:#31363b;fill:none;fill-opacity:1;stroke:url(#linearGradient1846-1-2);stroke-width:7.80983;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.823529"
+           class="ColorScheme-Text"
+           sodipodi:type="arc"
+           sodipodi:cx="63.199684"
+           sodipodi:cy="66.049332"
+           sodipodi:rx="45.729721"
+           sodipodi:ry="45.729721"
+           sodipodi:start="3.1623688"
+           sodipodi:end="4.8255573"
+           sodipodi:open="true"
+           sodipodi:arc-type="arc"
+           d="M 17.479832,65.099313 A 45.729721,45.729721 0 0 1 33.100361,31.622044 45.729721,45.729721 0 0 1 68.3638,20.61213" />
+        <rect
+           id="rect4416-6-3"
+           x="-0.60723114"
+           height="128"
+           width="128"
+           y="1.7658463"
+           style="fill:none;stroke-width:6.541" />
+        <circle
+           r="61.678532"
+           cy="65.765846"
+           cx="63.392769"
+           class="ColorScheme-Text"
+           style="color:#31363b;fill:none;fill-opacity:1;stroke:url(#linearGradient1004-9-7);stroke-width:3.5973;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="Kruna-2-7" />
+      </g>
+    </g>
+  </g>
+</svg>
