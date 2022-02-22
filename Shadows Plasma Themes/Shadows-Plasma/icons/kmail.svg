@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="32"
+   height="32"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="kmail.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata18">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs16">
+    <linearGradient
+       id="oomox"
+       x1="0"
+       x2="0"
+       y1="2.0160985"
+       y2="16.12652"
+       gradientTransform="matrix(1.9843488,0,0,1.4173921,2.0000148,3.1423983)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         style="stop-color:#303b3d; stop-opacity:1"
+         id="stop18" />
+      <stop
+         offset="100%"
+         style="stop-color:#bc985d; stop-opacity:1"
+         id="stop20" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     id="namedview14"
+     showgrid="false"
+     inkscape:zoom="9.8125003"
+     inkscape:cx="32.611464"
+     inkscape:cy="21.65605"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12"
+     inkscape:document-rotation="0"
+     showguides="false"
+     inkscape:lockguides="true"
+     inkscape:pagecheckerboard="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid859"
+       originx="-32"
+       originy="-10" />
+  </sodipodi:namedview>
+  <g
+     id="kmail">
+    <rect
+       style="opacity:0.00100002"
+       width="32"
+       height="32"
+       x="0"
+       y="0"
+       id="rect7" />
+    <path
+       d="M 28,23.327713 V 8.6338502 C 28,7.5977429 27.1,6.75 25.999998,6.75 H 6.0000031 C 4.9,6.75 4,7.5977429 4,8.6338502 V 23.327713 c 0,1.036104 0.9,1.883825 2.0000031,1.883825 H 25.999998 C 27.1,25.211538 28,24.363817 28,23.327713 Z m -21.9999969,0.94192 c -0.5499951,0 -0.9999951,-0.423887 -0.9999951,-0.94192 V 8.6338502 c 0,-0.5180761 0.45,-0.9419218 0.9999951,-0.9419218 H 25.999998 c 0.550005,0 1.000005,0.4238457 1.000005,0.9419218 V 23.327713 c 0,0.518033 -0.45,0.94192 -1.000005,0.94192 z"
+       id="path2"
+       style="fill:#d6dbf1;fill-opacity:1;stroke-width:0.485261" />
+    <rect
+       style="fill:#4e5a7e;fill-opacity:0.501961;stroke:none;stroke-width:0.527459;enable-background:new"
+       id="center-3-35"
+       width="16.571793"
+       height="21.949234"
+       x="7.7065434"
+       y="-26.97945"
+       ry="0.92307693"
+       transform="rotate(90)"
+       rx="0.92307693" />
+    <path
+       id="Mailbox"
+       class="st0"
+       d="m 10.599999,11.76099 c -1.7769219,0 -3.2307682,1.424174 -3.2307682,3.164833 v 5.274726 h 5.9230772 l 0.538461,1.054946 h 1.076924 l 0.538461,-1.054946 h 7.538462 c 0.888459,0 1.615384,-0.712087 1.615384,-1.582418 v -3.164834 c 0,-2.030769 -1.696155,-3.692307 -3.769231,-3.692307 h -1.615385 v 1.054944 H 18.138462 V 11.76099 h -4.684616 c 0.834617,0.712087 1.373078,1.740659 1.453847,2.901097 v 0 5.538462 h -1.076924 v -5.274726 c 0,-1.740659 -1.453845,-3.164833 -3.23077,-3.164833 z"
+       style="fill:#d6dbf1;fill-opacity:1;stroke-width:0.26647" />
+    <path
+       id="Mailbox-s"
+       class="st1"
+       d="m 18.138462,14.925823 h -1.076924 v -4.21978 c 0,-1.1604387 0.969231,-2.1098892 2.153846,-2.1098892 h 1.076924 V 9.651099 h -1.076924 c -0.592307,0 -1.076922,0.474724 -1.076922,1.054944 z m 6.461538,0 c 0,-1.740659 -1.453846,-3.164833 -3.230769,-3.164833 h -2.153847 v 1.054944 h 2.153847 c 1.184615,0 2.153846,0.949451 2.153846,2.109889 v 4.219782 c 0,0.580218 -0.484615,1.054944 -1.076923,1.054944 h -7.538461 v 3.164836 h 1.076922 v -2.10989 h 6.461539 c 1.184616,0 2.153846,-0.949451 2.153846,-2.10989 z M 12.753846,17.563187 H 8.446154 v 1.054944 h 4.307692 z m 1.076923,2.637362 H 8.446154 v 1.054946 h 5.384615 z"
+       style="fill:#d6dbf1;fill-opacity:1;stroke-width:0.26647" />
+  </g>
+  <g
+     id="22-22-kmail"
+     transform="translate(32,10)">
+    <rect
+       style="opacity:0.00100002"
+       width="22"
+       height="22"
+       x="0"
+       y="0"
+       id="rect2" />
+    <path
+       d="M 19,15.901809 V 6.1059 C 19,5.415162 18.4,4.85 17.666665,4.85 H 4.333335 C 3.6,4.85 3,5.415162 3,6.1059 v 9.795909 c 0,0.690736 0.6,1.255883 1.333335,1.255883 h 13.33333 C 18.4,17.157692 19,16.592545 19,15.901809 Z M 4.333335,16.529755 c -0.366663,0 -0.666663,-0.282591 -0.666663,-0.627946 V 6.1059 c 0,-0.345384 0.3,-0.627948 0.666663,-0.627948 h 13.33333 c 0.36667,0 0.66667,0.282564 0.66667,0.627948 v 9.795909 c 0,0.345355 -0.3,0.627946 -0.66667,0.627946 z"
+       id="path2-3"
+       style="fill:#d6dbf1;fill-opacity:1;stroke-width:0.323507" />
+    <rect
+       style="fill:#4e5a7e;fill-opacity:0.501961;stroke:none;stroke-width:0.351639;enable-background:new"
+       id="center-3-35-6"
+       width="11.047862"
+       height="14.632823"
+       x="5.4876943"
+       y="-18.31963"
+       ry="0.61538464"
+       transform="rotate(90)"
+       rx="0.61538464" />
+    <path
+       id="Mailbox-7"
+       class="st0"
+       d="m 7.4,8.19066 c -1.184615,0 -2.153846,0.949449 -2.153846,2.109889 v 3.516484 h 3.948718 l 0.358974,0.703297 h 0.717949 l 0.358974,-0.703297 h 5.025641 c 0.592307,0 1.076924,-0.474725 1.076924,-1.054946 v -2.109889 c 0,-1.353846 -1.130771,-2.461538 -2.512821,-2.461538 H 13.14359 V 8.893956 H 12.425641 V 8.19066 H 9.302564 c 0.556411,0.474725 0.915386,1.160439 0.969231,1.934065 v 0 3.692308 H 9.553846 V 10.300549 C 9.553846,9.140109 8.584616,8.19066 7.4,8.19066 Z"
+       style="fill:#d6dbf1;fill-opacity:1;stroke-width:0.177647" />
+    <path
+       id="Mailbox-s-5"
+       class="st1"
+       d="M 12.425641,10.300549 H 11.707692 V 7.487362 c 0,-0.773626 0.646154,-1.406593 1.435898,-1.406593 h 0.717948 V 6.784066 H 13.14359 c -0.394872,0 -0.717949,0.316483 -0.717949,0.703296 z m 4.307693,0 c 0,-1.16044 -0.969231,-2.109889 -2.153847,-2.109889 H 13.14359 v 0.703296 h 1.435897 c 0.789744,0 1.435898,0.632967 1.435898,1.406593 v 2.813188 c 0,0.386812 -0.323077,0.703296 -0.717949,0.703296 h -5.025641 v 2.10989 h 0.717948 V 14.52033 h 4.307693 c 0.789744,0 1.435898,-0.632968 1.435898,-1.406593 z M 8.835897,12.058791 H 5.964103 v 0.703296 h 2.871794 z m 0.717949,1.758242 H 5.964103 v 0.703297 h 3.589743 z"
+       style="fill:#d6dbf1;fill-opacity:1;stroke-width:0.177647" />
+  </g>
+</svg>
