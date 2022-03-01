@@ -12,3 +12,17 @@ https://www.pling.com/p/1717310
 [![splash.png](https://i.postimg.cc/Bbs3p8w7/splash.png)](https://postimg.cc/HcSFsLmb)
 
 [![5.jpg](https://i.postimg.cc/4x1WHYzN/5.jpg)](https://postimg.cc/87jRqPKq)
+
+
+Changelog: 01.03.2022.
+----------------------
+
+Icons
+-----
+
+Added new icons: devices (16)
+
+Plasma Theme
+-------------
+
+Update widget: tasks.svg
