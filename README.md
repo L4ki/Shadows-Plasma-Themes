@@ -26,3 +26,17 @@ Plasma Theme
 -------------
 
 Update widget: tasks.svg
+
+Changelog: 08.03.2022.
+----------------------
+
+Icons
+-----
+
+Added new icons: devices (22)
+
+Plasma Theme
+-------------
+
+Update widget: pager.svg
+
