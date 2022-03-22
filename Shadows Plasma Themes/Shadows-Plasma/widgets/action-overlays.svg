@@ -5,7 +5,7 @@
    height="70"
    width="80.000008"
    sodipodi:docname="action-overlays.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,10 +23,10 @@
      inkscape:pagecheckerboard="0"
      showgrid="false"
      inkscape:zoom="4"
-     inkscape:cx="57"
-     inkscape:cy="44.375"
+     inkscape:cx="56.625"
+     inkscape:cy="44.25"
      inkscape:window-width="1920"
-     inkscape:window-height="1005"
+     inkscape:window-height="1006"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -181,7 +181,7 @@
       <path
          id="path3939-5-2"
          d="m 327.81563,340.45277 a 1.0000733,0.99860239 0 0 0 -0.78123,0.9985 v 1.99701 a 1.0000733,0.99860239 0 0 0 0.99997,0.9985 h 8.99975 a 1.0000733,0.99860239 0 0 0 0.99999,-0.9985 v -1.99701 a 1.0000733,0.99860239 0 0 0 -0.99999,-0.9985 h -8.99975 a 1.0000733,0.99860239 0 0 0 -0.21874,0 z m 0.21874,0.9985 h 8.99975 v 1.99701 h -8.99975 z"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#ff3333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.99848;marker:none;enable-background:accumulate"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#ff4c4c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.99848;marker:none;enable-background:accumulate"
          inkscape:connector-curvature="0" />
     </g>
     <g
