@@ -67,4 +67,19 @@ Plasma Theme
 Update widget: action-overlays.svg
 
 
+Changelog: 29.03.2022.
+----------------------
+
+Icons
+-----
+
+Update icons: apps
+
+Plasma Theme
+-------------
+
+Update widget: tabbar.svg
+
+
+
 
