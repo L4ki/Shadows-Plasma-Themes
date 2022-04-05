@@ -80,6 +80,19 @@ Plasma Theme
 
 Update widget: tabbar.svg
 
+Changelog: 05.04.2022.
+----------------------
+
+Icons
+-----
+
+Added new icons: devices (64)
+
+Plasma Theme
+-------------
+
+Update icon: update.svg
+
 
 
 
