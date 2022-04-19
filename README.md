@@ -106,6 +106,19 @@ Plasma Theme
 
 Update icon: system.svg, update.svg
 
+Changelog: 19.04.2022.
+----------------------
+
+Icons
+-----
+
+Added new icons: mimetypes (32, 64)
+
+Plasma Theme
+-------------
+
+Update widget: arrows.svg
+
 
 
 
