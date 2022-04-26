@@ -120,6 +120,26 @@ Plasma Theme
 Update widget: arrows.svg
 
 
+Changelog: 26.04.2022.
+----------------------
+
+Shadows-Dark-Icons
+-------------------
+
+Added new icons: status (symbolic)
+
+Shadows-Light-Icons
+------------------
+
+Added new icons: status (22)
+
+
+Plasma Theme
+-------------
+
+Update icon: window.svg
+
+
 
 
 
