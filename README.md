@@ -139,6 +139,20 @@ Plasma Theme
 
 Update icon: window.svg
 
+Changelog: 03.05.2022.
+----------------------
+
+Icons
+-----
+
+Added new icons: devices (symbolic)
+
+
+Plasma Theme
+-------------
+
+Update widget: button.svg
+
 
 
 
