@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    id="svg50"
-   width="31.999996"
+   width="32"
    height="32"
    version="1.1"
    sodipodi:docname="audio.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -15,7 +15,7 @@
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <g
      id="22-22-audio-volume-high"
-     transform="translate(-96.000003,-22)">
+     transform="translate(0,-22)">
     <path
        style="opacity:0.00100002;fill:#d6dbf1;fill-opacity:1"
        d="M 0,0 H 22 V 22 H 0 Z"
@@ -64,30 +64,29 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-height="1009"
      id="namedview63"
      showgrid="false"
-     inkscape:zoom="4.9062498"
-     inkscape:cx="-23.847135"
-     inkscape:cy="4.9936308"
+     inkscape:zoom="3.4692425"
+     inkscape:cx="66.008646"
+     inkscape:cy="6.773813"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg50"
      inkscape:document-rotation="0"
-     inkscape:lockguides="true"
-     inkscape:showpageshadow="false"
+     inkscape:lockguides="false"
+     inkscape:showpageshadow="true"
      inkscape:pagecheckerboard="0"
      showguides="false">
     <inkscape:grid
        type="xygrid"
        id="grid902"
-       originx="0"
+       originx="96.000003"
        originy="0" />
   </sodipodi:namedview>
   <g
-     id="audio-volume-high"
-     transform="translate(-96.000003)">
+     id="audio-volume-high">
     <path
        style="opacity:0.00100002;fill:#d6dbf1;fill-opacity:1"
        d="M 0,0 H 32.000001 V 32.000001 H 0 Z"
@@ -115,7 +114,7 @@
   </g>
   <g
      id="audio-volume-medium"
-     transform="translate(-64.000002)">
+     transform="translate(32.000001)">
     <path
        style="opacity:0.00100002;fill:#d6dbf1;fill-opacity:1"
        d="M 0,0 H 32.000001 V 32.000001 H 0 Z"
@@ -142,7 +141,8 @@
        style="opacity:0.4;fill:#d6dbf1;fill-opacity:1;stroke-width:0.0935293" />
   </g>
   <g
-     id="audio-volume-muted">
+     id="audio-volume-muted"
+     transform="translate(96.000003)">
     <g
        id="g6366">
       <path
@@ -170,7 +170,7 @@
   </g>
   <g
      id="audio-volume-low"
-     transform="translate(-32.000001)">
+     transform="translate(64.000002)">
     <path
        style="opacity:0.00100002;fill:#d6dbf1;fill-opacity:1"
        d="M 0,0 H 32.000001 V 32.000001 H 0 Z"
@@ -198,7 +198,7 @@
   </g>
   <g
      id="22-22-audio-volume-medium"
-     transform="translate(-64.000002,-22)">
+     transform="translate(32.000001,-22)">
     <path
        style="opacity:0.00100002;fill:#d6dbf1;fill-opacity:1"
        d="M 0,0 H 22 V 22 H 0 Z"
@@ -226,7 +226,7 @@
   </g>
   <g
      id="22-22-audio-volume-muted"
-     transform="translate(0,-22)">
+     transform="translate(96.000003,-22)">
     <path
        style="opacity:0.00100002"
        d="M 0,0 H 21.999997 V 22 H 0 Z"
@@ -251,7 +251,7 @@
   </g>
   <g
      id="22-22-audio-volume-low"
-     transform="translate(-32.000001,-22)">
+     transform="translate(64.000002,-22)">
     <path
        style="opacity:0.00100002;fill:#d6dbf1;fill-opacity:1"
        d="M 0,0 H 22 V 22 H 0 Z"
