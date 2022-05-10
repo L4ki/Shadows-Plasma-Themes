@@ -153,6 +153,25 @@ Plasma Theme
 
 Update widget: button.svg
 
+Changelog: 10.05.2022.
+----------------------
+
+Dark Icons
+----------
+
+Added new icons: apps (22, 24)
+
+Light Icons
+-----------
+
+Added new icons: apps (48)
+
+
+Plasma Theme
+-------------
+
+Update icon: audio.svg
+
 
 
 
