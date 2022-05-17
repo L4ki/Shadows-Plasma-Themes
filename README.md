@@ -172,6 +172,19 @@ Plasma Theme
 
 Update icon: audio.svg
 
+Changelog: 17.05.2022.
+----------------------
+
+Icons
+-----
+
+Update icons: preferences 32
+
+
+Plasma Theme
+-------------
+
+Update icon: klipper.svg
 
 
 
