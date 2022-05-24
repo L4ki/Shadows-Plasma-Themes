@@ -194,7 +194,7 @@ Dark Icons
 
 Added new icons: status 22
 
-Dark Icons
+Light Icons
 ----------
 
 Added new icons: places
