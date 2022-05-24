@@ -186,6 +186,26 @@ Plasma Theme
 
 Update icon: klipper.svg
 
+Changelog: 24.05.2022.
+----------------------
+
+Dark Icons
+----------
+
+Added new icons: status 22
+
+Dark Icons
+----------
+
+Added new icons: places
+
+
+Plasma Theme
+-------------
+
+Update widget: busywidget.svg
+
+
 
 
 
