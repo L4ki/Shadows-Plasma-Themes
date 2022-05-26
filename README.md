@@ -186,7 +186,7 @@ Plasma Theme
 
 Update icon: klipper.svg
 
-Changelog: 24.05.2022.
+Changelog: 26.05.2022.
 ----------------------
 
 Dark Icons
