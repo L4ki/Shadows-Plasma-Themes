@@ -205,6 +205,20 @@ Plasma Theme
 
 Update widget: busywidget.svg
 
+Changelog: 02.06.2022.
+----------------------
+
+Icons
+-------
+
+Added new icons: emblems
+
+
+Plasma Theme
+-------------
+
+Update widget: checkmarks.svg
+
 
 
 
