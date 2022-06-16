@@ -233,7 +233,23 @@ Plasma Theme
 
 Update icons: akregator, device, kate, klipper, video, kdeconnect, preferences, redshift, input, keyboard, ktorrent, disk, printer
 
+Changelog: 16.06.2022.
+----------------------
+
+Icons
+-------
+
+Update icons: actions 22
 
 
+Plasma Theme
+-------------
+
+Update icon: audio.svg
+
+Aurorae Theme "Shadows-Blur-Aurorae"
+------------------------------------
+
+Update decoration.svg (Customized for Plasma 5.25)
 
 
