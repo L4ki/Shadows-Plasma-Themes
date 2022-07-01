@@ -265,3 +265,18 @@ Plasma Theme
 
 Update icon: phone.svg
 
+Changelog: 01.07.2022.
+----------------------
+
+Icons
+-------
+
+Added new icons: actions 16
+
+
+Plasma Theme
+-------------
+
+Update icons: plasmavault_error.svg, plasmavault.svg
+
+
