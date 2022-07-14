@@ -279,4 +279,12 @@ Plasma Theme
 
 Update icons: plasmavault_error.svg, plasmavault.svg
 
+Changelog: 14.07.2022.
+----------------------
+
+Icons
+-------
+
+Added new icons: actions 22
+
 
