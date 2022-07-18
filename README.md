@@ -287,4 +287,12 @@ Icons
 
 Added new icons: actions 22
 
+Changelog: 18.07.2022.
+----------------------
+
+Plasma Theme
+-------------
+
+Update icon: TeamViewer.svg
+
 
