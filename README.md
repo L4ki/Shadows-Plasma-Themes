@@ -303,4 +303,16 @@ Icons
 
 Added new icons: actions 24
 
+Changelog: 25.07.2022.
+----------------------
+
+Plasma Theme
+-------------
+
+Update widget: line.svg
+
+Shadows-Aurorae
+---------------
+
+Update: decoration.svg
 
