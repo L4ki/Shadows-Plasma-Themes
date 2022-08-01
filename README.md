@@ -324,4 +324,12 @@ Icons
 
 Added new icons: actions 32
 
+Changelog: 01.08.2022.
+----------------------
+
+Plasma Theme
+-------------
+
+Update widget: actionbutton.svg
+
 
