@@ -5,7 +5,7 @@
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    sodipodi:docname="actionbutton.svg"
    version="1.0"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
    sodipodi:version="0.32"
    id="svg2"
    height="128"
@@ -30,14 +30,14 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8284272"
-     inkscape:cx="92.630986"
-     inkscape:cy="81.847608"
+     inkscape:cx="65.053822"
+     inkscape:cy="82.201161"
      inkscape:document-units="px"
      width="128px"
      height="128px"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1005"
+     inkscape:window-height="1002"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:snap-nodes="false"
@@ -50,9 +50,10 @@
      inkscape:bbox-nodes="true"
      showguides="false"
      inkscape:document-rotation="0"
-     inkscape:showpageshadow="false"
+     inkscape:showpageshadow="true"
      inkscape:lockguides="false"
-     inkscape:pagecheckerboard="0">
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        id="GridFromPre046Settings"
        type="xygrid"
@@ -1785,7 +1786,7 @@
        cy="50"
        cx="25.000008"
        id="path4752-3"
-       style="opacity:1;fill:#1d212f;fill-opacity:0.00392157;stroke:#58658d;stroke-width:2.00019;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:1;fill:#1d212f;fill-opacity:0.00392157;stroke:#606e99;stroke-width:2.00019;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
   <g
      id="pressed"
@@ -1812,7 +1813,7 @@
        cy="88"
        cx="24.999695"
        id="path4752-3-8"
-       style="opacity:1;fill:#1d212f;fill-opacity:0.00392157;stroke:#58658d;stroke-width:2.00019;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:1;fill:#1d212f;fill-opacity:0.00392157;stroke:#606e99;stroke-width:2.00019;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
   <g
      id="22-22-normal"
@@ -1839,7 +1840,7 @@
        cy="55.000004"
        cx="156.00032"
        id="path4752-3-7"
-       style="opacity:1;fill:#1d212f;fill-opacity:0.00392157;stroke:#58658d;stroke-width:1.37513;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:1;fill:#1d212f;fill-opacity:0.00392157;stroke:#606e99;stroke-width:1.37513;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
   <g
      id="22-22-pressed"
@@ -1866,6 +1867,6 @@
        cy="93"
        cx="156.00032"
        id="path4752-3-8-9"
-       style="opacity:1;fill:#1d212f;fill-opacity:0.00392157;stroke:#58658d;stroke-width:1.37513;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:1;fill:#1d212f;fill-opacity:0.00392157;stroke:#606e99;stroke-width:1.37513;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
 </svg>
