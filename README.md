@@ -340,4 +340,12 @@ Icons
 
 Added new icons: actions 16
 
+Changelog: 08.08.2022.
+----------------------
+
+Plasma Theme
+-------------
+
+Update icon: video-card.svg
+
 
