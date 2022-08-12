@@ -349,3 +349,12 @@ Plasma Theme
 Update icon: video-card.svg
 
 
+Changelog: 12.08.2022.
+----------------------
+
+Icons
+-------
+
+Added new icons: applets 256
+
+
