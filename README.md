@@ -357,4 +357,12 @@ Icons
 
 Added new icons: applets 256
 
+Changelog: 15.08.2022.
+----------------------
+
+Plasma Theme
+-------------
+
+Update widget: listitem.svg
+
 
