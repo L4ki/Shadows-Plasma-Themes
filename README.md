@@ -374,7 +374,7 @@ Icons
 
 Added new icons: mimetypes
 
-Changelog: 15.08.2022.
+Changelog: 22.08.2022.
 ----------------------
 
 Plasma Theme
