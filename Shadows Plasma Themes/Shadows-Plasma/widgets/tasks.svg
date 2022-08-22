@@ -6,7 +6,7 @@
    height="320"
    id="svg6150"
    sodipodi:version="0.32"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    sodipodi:docname="tasks.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
@@ -28,14 +28,14 @@
      objecttolerance="10"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.99999996"
-     inkscape:cx="395.00002"
-     inkscape:cy="198.00001"
+     inkscape:zoom="1.4142135"
+     inkscape:cx="389.96941"
+     inkscape:cy="190.21173"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1006"
+     inkscape:window-height="1002"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:snap-bbox="true"
@@ -44,15 +44,9 @@
      inkscape:guide-bbox="true"
      inkscape:window-maximized="1"
      inkscape:pagecheckerboard="0"
-     inkscape:showpageshadow="false"
-     inkscape:lockguides="false">
-    <inkscape:grid
-       type="xygrid"
-       id="grid6440"
-       visible="true"
-       enabled="true"
-       originx="0.32719901"
-       originy="121.73667" />
+     inkscape:showpageshadow="true"
+     inkscape:lockguides="false"
+     inkscape:deskcolor="#d1d1d1">
     <sodipodi:guide
        orientation="1,0"
        position="465.3272,273.26333"
@@ -63,6 +57,9 @@
        position="455.8272,34.91437"
        id="guide4239"
        inkscape:locked="false" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid1478" />
   </sodipodi:namedview>
   <defs
      id="defs6152">
@@ -5101,7 +5098,7 @@
     </g>
     <g
        id="group-expander-bottom"
-       transform="matrix(1.0028337,0,0,1.0091105,-272.90067,-654.84757)">
+       transform="matrix(1.0028337,0,0,1.0091105,-272.90067,-656.82982)">
       <path
          transform="matrix(0,-1,1.2,0,326.42225,790.37792)"
          mask="none"
@@ -5118,7 +5115,7 @@
     </g>
     <g
        id="group-expander-top"
-       transform="matrix(1,0,0,0.99999609,-285.89033,-676.58844)">
+       transform="matrix(1,0,0,0.99999609,-285.89033,-675.21568)">
       <path
          transform="matrix(0,1,-1.2,0,419.57775,830.34636)"
          mask="none"
@@ -5135,7 +5132,7 @@
     </g>
     <g
        id="group-expander-left"
-       transform="translate(-278.3463,-662.8606)">
+       transform="translate(-279.9472,-662.8606)">
       <path
          transform="matrix(-1,0,0,-1.2,322.01578,849.93993)"
          mask="none"
@@ -5152,7 +5149,7 @@
     </g>
     <g
        id="group-expander-right"
-       transform="translate(-272.6756,-573.90881)">
+       transform="translate(-273.59073,-573.90881)">
       <path
          transform="matrix(0.99968543,0,0,-1.2148559,416.11898,761.3556)"
          mask="none"
