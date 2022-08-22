@@ -374,3 +374,16 @@ Icons
 
 Added new icons: mimetypes
 
+Changelog: 15.08.2022.
+----------------------
+
+Plasma Theme
+-------------
+
+Update widget: tasks.svg
+
+Kvantum Theme
+-------------
+
+Update: Shadows-Kvantum.svg
+
