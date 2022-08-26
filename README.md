@@ -387,3 +387,11 @@ Kvantum Theme
 
 Update: Shadows-Kvantum.svg
 
+Changelog: 26.08.2022.
+----------------------
+
+Icons
+-------
+
+Added new icons: actions 22
+
