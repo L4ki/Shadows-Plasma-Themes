@@ -417,5 +417,5 @@ Changelog: 05.09.2022.
 Plasma Theme
 -------------
 
-Update icon: preferences.svg.svg
+Update icon: preferences.svg
 
