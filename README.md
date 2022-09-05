@@ -411,3 +411,11 @@ Icons
 
 Added new icons: actions 24
 
+Changelog: 05.09.2022.
+----------------------
+
+Plasma Theme
+-------------
+
+Update icon: preferences.svg.svg
+
