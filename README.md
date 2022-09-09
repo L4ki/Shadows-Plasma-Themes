@@ -419,3 +419,11 @@ Plasma Theme
 
 Update icon: preferences.svg
 
+Changelog: 09.09.2022.
+----------------------
+
+Icons
+-------
+
+Added new icons: actions 22
+
