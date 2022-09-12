@@ -427,3 +427,11 @@ Icons
 
 Added new icons: actions 22
 
+Changelog: 12.09.2022.
+----------------------
+
+Plasma Theme
+-------------
+
+Update widget: viewitem.svg
+
