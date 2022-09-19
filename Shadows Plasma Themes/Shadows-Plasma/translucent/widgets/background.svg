@@ -6,7 +6,7 @@
    height="200"
    id="svg4257"
    version="1.1"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    sodipodi:docname="background.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -23,14 +23,14 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="290.62088"
-     inkscape:cy="227.33482"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="321.73359"
+     inkscape:cy="229.1026"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="true"
+     showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1003"
+     inkscape:window-height="1002"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -46,7 +46,8 @@
      inkscape:snap-global="true"
      inkscape:pagecheckerboard="0"
      inkscape:lockguides="false"
-     inkscape:showpageshadow="false">
+     inkscape:showpageshadow="true"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        snapvisiblegridlinesonly="true"
        enabled="true"
@@ -297,7 +298,8 @@
          transform="scale(1,-1)" />
     </g>
     <g
-       id="blurred-topright">
+       id="blurred-topright"
+       transform="translate(59.750139)">
       <path
          id="path1418"
          style="opacity:0.7;fill:#1d212f;fill-opacity:1;stroke-width:0.685961"
@@ -305,7 +307,8 @@
          sodipodi:nodetypes="ccccc" />
     </g>
     <g
-       id="blurred-top">
+       id="blurred-top"
+       transform="translate(59.750139)">
       <rect
          id="rect1732"
          style="opacity:0.7;fill:#1d212f;fill-opacity:1;stroke-width:0.687491"
@@ -315,7 +318,8 @@
          y="1008.3622" />
     </g>
     <g
-       id="g2882">
+       id="g2882"
+       transform="translate(59.750139)">
       <g
          id="blurred-center">
         <rect
@@ -328,7 +332,8 @@
       </g>
     </g>
     <g
-       id="blurred-topleft">
+       id="blurred-topleft"
+       transform="translate(59.750139)">
       <path
          id="path1408"
          style="opacity:0.7;fill:#1d212f;fill-opacity:1;stroke-width:0.687171"
@@ -336,7 +341,8 @@
          sodipodi:nodetypes="ccccccc" />
     </g>
     <g
-       id="blurred-bottom">
+       id="blurred-bottom"
+       transform="translate(59.750139)">
       <rect
          id="rect1692"
          style="opacity:0.7;fill:#1d212f;fill-opacity:1;stroke-width:0.687491"
@@ -347,7 +353,8 @@
          transform="scale(1,-1)" />
     </g>
     <g
-       id="blurred-left">
+       id="blurred-left"
+       transform="translate(59.750139)">
       <rect
          id="rect1688"
          style="opacity:0.7;fill:#1d212f;fill-opacity:1;stroke-width:0.687491"
@@ -358,7 +365,8 @@
          transform="rotate(90)" />
     </g>
     <g
-       id="blurred-right">
+       id="blurred-right"
+       transform="translate(59.750139)">
       <rect
          id="rect1534"
          style="opacity:0.7;fill:#1d212f;fill-opacity:1;stroke-width:0.687491"
@@ -369,7 +377,8 @@
          transform="rotate(90)" />
     </g>
     <g
-       id="blurred-hint-top-margin">
+       id="blurred-hint-top-margin"
+       transform="translate(59.750139)">
       <rect
          id="hint-top-margin"
          style="opacity:0.01;fill:#008080;fill-opacity:1;stroke-width:0.687491"
@@ -379,7 +388,8 @@
          y="1024.8634" />
     </g>
     <g
-       id="blurred-hint-left-margin">
+       id="blurred-hint-left-margin"
+       transform="translate(59.750139)">
       <rect
          id="hint-left-margin"
          style="opacity:0.01;fill:#008080;fill-opacity:1;stroke-width:0.687491"
@@ -389,7 +399,8 @@
          y="1048.2382" />
     </g>
     <g
-       id="blurred-hint-right-margin">
+       id="blurred-hint-right-margin"
+       transform="translate(59.750139)">
       <rect
          id="hint-right-margin"
          style="opacity:0.01;fill:#008080;fill-opacity:1;stroke-width:0.687491"
@@ -399,7 +410,8 @@
          y="1048.2382" />
     </g>
     <g
-       id="blurred-hint-bottom-margin">
+       id="blurred-hint-bottom-margin"
+       transform="translate(59.750139)">
       <rect
          id="hint-bottom-margin"
          style="opacity:0.01;fill:#008080;fill-opacity:1;stroke-width:0.687491"
@@ -409,7 +421,8 @@
          y="1071.6125" />
     </g>
     <g
-       id="blurred-mask-top">
+       id="blurred-mask-top"
+       transform="translate(59.750139)">
       <rect
          id="rect935"
          width="55"
@@ -420,7 +433,7 @@
     </g>
     <g
        id="mask-center"
-       transform="matrix(0.68749998,0,0,0.68748124,94.375009,328.78173)">
+       transform="matrix(0.68749998,0,0,0.68748124,154.12515,328.78173)">
       <g
          id="blurred-mask-center">
         <rect
@@ -433,7 +446,8 @@
       </g>
     </g>
     <g
-       id="blurred-mask-bottom">
+       id="blurred-mask-bottom"
+       transform="translate(59.750139)">
       <rect
          id="rect920"
          width="55"
@@ -444,7 +458,8 @@
          style="fill:#1d212f;fill-opacity:1;stroke-width:0.687485" />
     </g>
     <g
-       id="blurred-mask-left">
+       id="blurred-mask-left"
+       transform="translate(59.750139)">
       <rect
          id="rect930"
          width="54.998501"
@@ -455,7 +470,8 @@
          style="fill:#1d212f;fill-opacity:1;stroke-width:0.687491" />
     </g>
     <g
-       id="blurred-mask-right">
+       id="blurred-mask-right"
+       transform="translate(59.750139)">
       <rect
          id="rect925"
          width="54.998501"
@@ -466,7 +482,8 @@
          style="fill:#1d212f;fill-opacity:1;stroke-width:0.687491" />
     </g>
     <g
-       id="blurred-shadow-top">
+       id="blurred-shadow-top"
+       transform="translate(59.750139)">
       <path
          id="rect1029"
          style="opacity:0.00100002;stroke-width:0.687313"
@@ -477,7 +494,8 @@
          d="m 270.40695,1003.2622 v 4.8112 h 54.98561 v -4.8112 z" />
     </g>
     <g
-       id="blurred-shadow-right">
+       id="blurred-shadow-right"
+       transform="translate(59.750139)">
       <path
          id="rect1037"
          style="opacity:0.00100002;stroke-width:0.687313"
@@ -488,7 +506,8 @@
          d="m 341.88825,1024.5687 v 54.9849 h 4.81124 v -54.9849 z" />
     </g>
     <g
-       id="blurred-shadow-left">
+       id="blurred-shadow-left"
+       transform="translate(59.750139)">
       <path
          id="rect1039"
          style="opacity:0.00100002;stroke-width:0.687313"
@@ -499,7 +518,8 @@
          d="m 249.10002,1024.5687 v 54.9845 h 4.81124 v -54.9845 z" />
     </g>
     <g
-       id="blurred-shadow-bottom">
+       id="blurred-shadow-bottom"
+       transform="translate(59.750139)">
       <path
          id="rect1031"
          style="opacity:0.00100002;stroke-width:0.687313"
@@ -514,31 +534,32 @@
        style="opacity:0.01;fill:#008080;stroke-width:0.687313"
        width="4.8112416"
        height="4.8111444"
-       x="344.89999"
+       x="404.65012"
        y="1047.3622" />
     <rect
        id="shadow-hint-bottom-margin"
        style="opacity:0.01;fill:#008080;stroke-width:0.687313"
        width="4.8112416"
        height="4.8111444"
-       x="295.18875"
+       x="354.93887"
        y="1096.2622" />
     <rect
        id="shadow-hint-left-margin"
        style="opacity:0.01;fill:#008080;stroke-width:0.687313"
        width="4.8112416"
        height="4.8111444"
-       x="249"
+       x="308.75012"
        y="1047.3622" />
     <rect
        id="shadow-hint-top-margin"
        style="opacity:0.01;fill:#008080;stroke-width:0.687313"
        width="4.8112416"
        height="4.8111444"
-       x="295.18875"
+       x="354.93887"
        y="1003.2622" />
     <g
-       id="g2355">
+       id="g2355"
+       transform="translate(59.750139)">
       <g
          id="blurred-shadow-center">
         <rect
@@ -551,7 +572,8 @@
       </g>
     </g>
     <g
-       id="blurred-shadow-topright">
+       id="blurred-shadow-topright"
+       transform="translate(59.750139)">
       <path
          id="shadow-topright"
          style="fill:url(#radialGradient876);stroke-width:0.687313"
@@ -559,7 +581,8 @@
          sodipodi:nodetypes="cccccc" />
     </g>
     <g
-       id="g1992">
+       id="g1992"
+       transform="translate(59.750139)">
       <path
          id="shadow-bottomleft"
          style="fill:url(#radialGradient882);stroke-width:0.687313"
@@ -567,7 +590,8 @@
          sodipodi:nodetypes="cccccc" />
     </g>
     <g
-       id="blurred-shadow-bottomright">
+       id="blurred-shadow-bottomright"
+       transform="translate(59.750139)">
       <path
          id="path1690"
          style="fill:url(#radialGradient884);stroke-width:0.687313"
@@ -575,7 +599,8 @@
          sodipodi:nodetypes="cccccc" />
     </g>
     <g
-       id="blurred-bottomleft">
+       id="blurred-bottomleft"
+       transform="translate(59.750139)">
       <path
          id="topleft-3"
          style="opacity:0.7;fill:#1d212f;fill-opacity:1;stroke-width:0.687171"
@@ -583,7 +608,8 @@
          sodipodi:nodetypes="cccscc" />
     </g>
     <g
-       id="blurred-bottomright">
+       id="blurred-bottomright"
+       transform="translate(59.750139)">
       <g
          id="g950"
          transform="matrix(0.68673904,0,0,0.68656465,98.74182,330.56993)">
@@ -596,7 +622,7 @@
     </g>
     <g
        id="topright"
-       transform="translate(40.249861,-39.250366)">
+       transform="translate(100,-39.250366)">
       <path
          id="path1418-6"
          style="opacity:0.7;fill:#1d212f;fill-opacity:1;stroke-width:0.685961"
@@ -604,7 +630,8 @@
          sodipodi:nodetypes="ccccc" />
     </g>
     <g
-       id="top">
+       id="top"
+       transform="translate(59.750139)">
       <rect
          id="rect1732-5"
          style="opacity:0.7;fill:#1d212f;fill-opacity:1;stroke-width:0.687491"
@@ -615,7 +642,7 @@
     </g>
     <g
        id="g2882-3"
-       transform="translate(-160,39.999997)">
+       transform="translate(-100.24986,39.999997)">
       <g
          id="blurred-center-5">
         <g
@@ -632,7 +659,8 @@
       </g>
     </g>
     <g
-       id="topleft">
+       id="topleft"
+       transform="translate(59.750139)">
       <path
          id="path1408-9"
          style="opacity:0.7;fill:#1d212f;fill-opacity:1;stroke-width:0.687171"
@@ -641,7 +669,7 @@
     </g>
     <g
        id="bottom"
-       transform="translate(40.249861,-39.250366)">
+       transform="translate(100,-39.250366)">
       <rect
          id="rect1692-2"
          style="opacity:0.7;fill:#1d212f;fill-opacity:1;stroke-width:0.687491"
@@ -653,7 +681,7 @@
     </g>
     <g
        id="left"
-       transform="translate(40.249861,-39.250366)">
+       transform="translate(100,-39.250366)">
       <rect
          id="rect1688-0"
          style="opacity:0.7;fill:#1d212f;fill-opacity:1;stroke-width:0.687491"
@@ -665,7 +693,7 @@
     </g>
     <g
        id="right"
-       transform="translate(40.249861,-39.250366)">
+       transform="translate(100,-39.250366)">
       <rect
          id="rect1534-3"
          style="opacity:0.7;fill:#1d212f;fill-opacity:1;stroke-width:0.687491"
@@ -677,7 +705,7 @@
     </g>
     <g
        id="blurred-hint-top-margin-6"
-       transform="translate(-119.75014,0.74963117)">
+       transform="translate(-60,0.74963117)">
       <rect
          id="hint-top-margin-0"
          style="opacity:0.01;fill:#008080;fill-opacity:1;stroke-width:0.687491"
@@ -688,7 +716,7 @@
     </g>
     <g
        id="blurred-hint-left-margin-6"
-       transform="translate(-119.75014,0.74963117)">
+       transform="translate(-60,0.74963117)">
       <rect
          id="hint-left-margin-2"
          style="opacity:0.01;fill:#008080;fill-opacity:1;stroke-width:0.687491"
@@ -699,7 +727,7 @@
     </g>
     <g
        id="blurred-hint-right-margin-6"
-       transform="translate(-119.75014,0.74963117)">
+       transform="translate(-60,0.74963117)">
       <rect
          id="hint-right-margin-1"
          style="opacity:0.01;fill:#008080;fill-opacity:1;stroke-width:0.687491"
@@ -710,7 +738,7 @@
     </g>
     <g
        id="blurred-hint-bottom-margin-8"
-       transform="translate(-119.75014,0.74963117)">
+       transform="translate(-60,0.74963117)">
       <rect
          id="hint-bottom-margin-7"
          style="opacity:0.01;fill:#008080;fill-opacity:1;stroke-width:0.687491"
@@ -721,7 +749,7 @@
     </g>
     <g
        id="bottomleft"
-       transform="translate(40.249861,-39.250366)">
+       transform="translate(100,-39.250366)">
       <path
          id="topleft-3-2"
          style="opacity:0.7;fill:#1d212f;fill-opacity:1;stroke-width:0.687171"
@@ -730,7 +758,7 @@
     </g>
     <g
        id="bottomright"
-       transform="translate(40.249861,-39.250366)">
+       transform="translate(100,-39.250366)">
       <path
          id="topright-6-3"
          style="opacity:0.7;fill:#1d212f;fill-opacity:1;stroke-width:0.686652"
@@ -738,7 +766,8 @@
          sodipodi:nodetypes="cccccc" />
     </g>
     <g
-       id="blurred-mask-bottomright">
+       id="blurred-mask-bottomright"
+       transform="translate(59.750139)">
       <path
          id="topright-6-9"
          style="fill:#1d212f;fill-opacity:1;stroke-width:0.686652"
@@ -746,7 +775,8 @@
          sodipodi:nodetypes="cccccc" />
     </g>
     <g
-       id="blurred-shadow-topleft">
+       id="blurred-shadow-topleft"
+       transform="translate(59.750139)">
       <path
          id="shadow-topright-5"
          style="fill:url(#radialGradient876-3);fill-opacity:1;stroke-width:0.687313"
@@ -754,7 +784,8 @@
          sodipodi:nodetypes="cccccc" />
     </g>
     <g
-       id="blurred-mask-topleft">
+       id="blurred-mask-topleft"
+       transform="translate(59.750139)">
       <path
          id="topleft-36"
          style="fill:#1d212f;fill-opacity:1;stroke-width:0.688604"
@@ -762,7 +793,8 @@
          sodipodi:nodetypes="ccccccc" />
     </g>
     <g
-       id="blurred-mask-topright">
+       id="blurred-mask-topright"
+       transform="translate(59.750139)">
       <path
          id="topright-7"
          style="fill:#1d212f;fill-opacity:1;stroke-width:0.685234"
@@ -770,7 +802,8 @@
          sodipodi:nodetypes="ccccc" />
     </g>
     <g
-       id="blurred-mask-bottomleft">
+       id="blurred-mask-bottomleft"
+       transform="translate(59.750139)">
       <path
          id="topleft-3-3"
          style="fill:#1d212f;fill-opacity:1;stroke-width:0.688604"
