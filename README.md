@@ -443,3 +443,11 @@ Icons
 
 Update icons: places
 
+Changelog: 20.09.2022.
+----------------------
+
+Plasma Theme
+-------------
+
+Update widget: background.svg
+
