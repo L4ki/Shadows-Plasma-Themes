@@ -451,3 +451,12 @@ Plasma Theme
 
 Update widget: background.svg
 
+
+Changelog: 23.09.2022.
+----------------------
+
+Icons
+-------
+
+Added new icons: actions 22
+
