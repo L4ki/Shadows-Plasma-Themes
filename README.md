@@ -460,3 +460,18 @@ Icons
 
 Added new icons: actions 22
 
+Changelog: 27.09.2022.
+----------------------
+
+Plasma Theme
+-------------
+
+Update widgets: bar_meter_horizontal.svg, bar_meter_vertical.svg
+
+
+GTK Theme
+----------
+
+Update: assets, gtk.css
+
+
