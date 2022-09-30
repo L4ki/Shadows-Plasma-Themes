@@ -474,4 +474,12 @@ GTK Theme
 
 Update: assets, gtk.css
 
+Changelog: 30.09.2022.
+----------------------
+
+Icons
+-------
+
+Added new icons: apps 48
+
 
