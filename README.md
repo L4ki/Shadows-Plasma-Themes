@@ -483,3 +483,12 @@ Icons
 Added new icons: apps 48
 
 
+Changelog: 04.10.2022.
+----------------------
+
+Plasma Theme
+-------------
+
+Update widget: clock.svg
+
+
