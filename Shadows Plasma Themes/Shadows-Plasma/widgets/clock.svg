@@ -4,7 +4,7 @@
 <svg
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    width="214"
    height="214"
    sodipodi:docname="clock.svg"
@@ -21,7 +21,7 @@
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <sodipodi:namedview
-     inkscape:window-height="1005"
+     inkscape:window-height="1002"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
@@ -32,9 +32,9 @@
      bordercolor="#000000"
      pagecolor="#ffffff"
      id="base"
-     inkscape:zoom="1.4142135"
-     inkscape:cx="130.10765"
-     inkscape:cy="119.1475"
+     inkscape:zoom="0.99999996"
+     inkscape:cx="140.00001"
+     inkscape:cy="219.00001"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:current-layer="ClockFace"
@@ -55,8 +55,9 @@
      inkscape:snap-grids="true"
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:pagecheckerboard="0"
-     inkscape:showpageshadow="false"
-     inkscape:lockguides="false">
+     inkscape:showpageshadow="true"
+     inkscape:lockguides="false"
+     inkscape:deskcolor="#cccccc">
     <inkscape:grid
        empspacing="5"
        enabled="true"
