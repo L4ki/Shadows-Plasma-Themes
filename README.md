@@ -491,4 +491,12 @@ Plasma Theme
 
 Update widget: clock.svg
 
+Changelog: 07.10.2022.
+----------------------
+
+Icons
+-------
+
+Added new icons: apps
+
 
