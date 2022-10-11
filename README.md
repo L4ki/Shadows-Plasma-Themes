@@ -499,4 +499,12 @@ Icons
 
 Added new icons: apps
 
+Changelog: 11.10.2022.
+----------------------
+
+Plasma Theme
+-------------
+
+Update icon: touchpad.svg
+
 
