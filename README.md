@@ -507,4 +507,20 @@ Plasma Theme
 
 Update icon: touchpad.svg
 
+Changelog: 14.10.2022.
+----------------------
+
+Icons
+-------
+
+Shadows-Dark-Icons
+------------------
+
+Added new icons: symbolic
+
+Shadows-Light-Icons
+--------------------
+
+Added new icons: actions 32
+
 
