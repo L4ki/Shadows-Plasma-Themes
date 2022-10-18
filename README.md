@@ -523,4 +523,12 @@ Shadows-Light-Icons
 
 Added new icons: actions 32
 
+Changelog: 18.10.2022.
+----------------------
+
+Plasma Theme
+-------------
+
+Update widgets: containment-controls.svg, scrollbar.svg
+
 
