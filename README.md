@@ -531,4 +531,12 @@ Plasma Theme
 
 Update widgets: containment-controls.svg, scrollbar.svg
 
+Changelog: 21.10.2022.
+----------------------
+
+Icons
+-------
+
+Added new icons: apps
+
 
