@@ -539,4 +539,12 @@ Icons
 
 Added new icons: apps
 
+Changelog: 25.10.2022.
+----------------------
+
+Plasma Theme
+-------------
+
+Added new icons: juk.svg, emblem.svg
+
 
