@@ -555,4 +555,12 @@ Icons
 
 Added new icons: apps
 
+Changelog: 01.11.2022.
+----------------------
+
+Plasma Theme
+-------------
+
+Added new icons: tools.svg, face.svg
+
 
