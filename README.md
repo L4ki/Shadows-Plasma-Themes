@@ -563,4 +563,11 @@ Plasma Theme
 
 Added new icons: tools.svg, face.svg
 
+Changelog: 04.11.2022.
+----------------------
+
+Icons
+-------
+
+Added new icons: apps 32, 48
 
