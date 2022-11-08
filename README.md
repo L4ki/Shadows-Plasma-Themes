@@ -571,3 +571,11 @@ Icons
 
 Added new icons: apps 32, 48
 
+Changelog: 08.11.2022.
+----------------------
+
+Plasma Theme
+-------------
+
+Added icon: qbittorrent.svg
+
