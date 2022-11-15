@@ -588,3 +588,11 @@ Icons
 
 Added new icons: apps
 
+Changelog: 15.11.2022.
+----------------------
+
+Plasma Theme
+-------------
+
+Added icon: nulloy.svg
+
