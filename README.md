@@ -603,3 +603,16 @@ Icons
 -------
 
 Added new icons: apps 32, 48
+
+Changelog: 22.11.2022.
+----------------------
+
+Plasma Theme
+-------------
+
+Added icon: utilities.svg
+
+GTK Theme
+----------
+
+Update: checkbox-checked-hover.png, button-hover.png
