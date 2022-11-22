@@ -616,3 +616,8 @@ GTK Theme
 ----------
 
 Update: checkbox-checked-hover.png, button-hover.png
+
+Window Decotation
+-----------------
+
+Update: decoration.svg
