@@ -621,3 +621,11 @@ Window Decorations
 ------------------
 
 Update: decoration.svg
+
+Changelog: 27.11.2022.
+----------------------
+
+Icons
+-------
+
+Added new icons: apps 32, 48
