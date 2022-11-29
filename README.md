@@ -629,3 +629,17 @@ Icons
 -------
 
 Added new icons: apps 32, 48
+
+
+Changelog: 29.11.2022.
+----------------------
+
+Plasma Theme
+-------------
+
+Added icons: kdf.svg, knotes.svg
+
+Kvantum Theme
+-------------
+
+Update: Shadows-Kvantum.svg
