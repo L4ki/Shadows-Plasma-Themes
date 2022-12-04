@@ -643,3 +643,11 @@ Kvantum Theme
 -------------
 
 Update: Shadows-Kvantum.svg
+
+Changelog: 04.12.2022.
+----------------------
+
+Icons
+-------
+
+Added new icons: apps 32, 48
