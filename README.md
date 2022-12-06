@@ -651,3 +651,11 @@ Icons
 -------
 
 Added new icons: apps 32, 48
+
+Changelog: 06.12.2022.
+----------------------
+
+Plasma Theme
+-------------
+
+Added icons: krusader_root.svg, krusader_user.svg
