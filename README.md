@@ -668,3 +668,17 @@ Icons
 -------
 
 Added new icons: apps 32, 48
+
+Changelog: 13.12.2022.
+----------------------
+
+Plasma Theme
+-------------
+
+Added icon: mellowplayer.svg
+
+GTK Theme
+-----------
+
+checkbox-mixed-hover
+
