@@ -682,3 +682,11 @@ GTK Theme
 
 checkbox-mixed-hover
 
+Changelog: 18.12.2022.
+----------------------
+
+Icons
+-------
+
+Added new icons: apps 32, 48
+
