@@ -1,7 +1,21 @@
 # Shadows-Plasma-Themes
 Shadows Themes For Plasma Desktop
 
-https://www.pling.com/p/1717310
+Download: https://www.pling.com/p/1717310
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+  </head>
+  <body>
+    <h2>Donate</h2>
+    <h2>If you like my project, you can donate at:</h2>
+    <a href="https://www.paypal.com/paypalme/VesnaLazic">
+    <img src="PayPal.png" alt="PayPal" />
+    </a>
+  </body>
+</html>
+
 
 
 [![Screenshot-20220221-095500.jpg](https://i.postimg.cc/9FkHHmCx/Screenshot-20220221-095500.jpg)](https://postimg.cc/kBWpxdV8)
@@ -705,4 +719,12 @@ Icons
 -------
 
 Added new icons: apps 32
+
+Changelog: 27.12.2022.
+----------------------
+
+Plasma Theme
+-------------
+
+Added icon: internet.svg
 
