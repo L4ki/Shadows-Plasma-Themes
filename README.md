@@ -741,3 +741,11 @@ Icons
 
 Added new icons: apps 32
 
+Changelog: 04.01.2023.
+----------------------
+
+Plasma Theme
+-------------
+
+Added icon: office.svg
+
