@@ -766,3 +766,8 @@ Plasma Theme
 
 Added icon: zoom.svg
 
+GTK Theme
+----------
+
+Update icon: checkbox-checked.png
+
