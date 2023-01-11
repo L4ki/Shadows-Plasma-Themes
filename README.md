@@ -757,3 +757,12 @@ Icons
 
 Added new icons: apps 32, 48
 
+
+Changelog: 11.01.2023.
+----------------------
+
+Plasma Theme
+-------------
+
+Added icon: zoom.svg
+
