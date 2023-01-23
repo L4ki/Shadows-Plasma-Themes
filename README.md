@@ -788,3 +788,10 @@ Plasma Theme
 
 Added icon: krfb.svg
 
+Changelog: 23.01.2023.
+----------------------
+
+Icons
+-------
+
+Added new icons: apps 32, 48
