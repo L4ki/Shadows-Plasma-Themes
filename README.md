@@ -803,3 +803,11 @@ Plasma Theme
 -------------
 
 Added icon: cadence.svg
+
+Changelog: 31.01.2023.
+----------------------
+
+Icons
+-------
+
+Added new icons: preferences 22, 32
