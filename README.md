@@ -819,3 +819,8 @@ Plasma Theme
 -------------
 
 Added icon: onboard.svg
+
+GTK-Theme
+---------
+
+Update icon: checkbox-checked-insensitive.png
