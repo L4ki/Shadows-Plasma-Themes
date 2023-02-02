@@ -811,3 +811,11 @@ Icons
 -------
 
 Added new icons: preferences 22, 32
+
+Changelog: 02.02.2023.
+----------------------
+
+Plasma Theme
+-------------
+
+Added icon: onboard.svg
