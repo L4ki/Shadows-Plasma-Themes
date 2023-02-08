@@ -824,3 +824,11 @@ GTK-Theme
 ---------
 
 Update icon: checkbox-checked-insensitive.png
+
+Changelog: 08.02.2023.
+----------------------
+
+Icons
+-------
+
+Added new icons: apps 32, 48
