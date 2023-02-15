@@ -840,3 +840,11 @@ Plasma Theme
 -------------
 
 Added icon: plasma.svg
+
+Changelog: 15.02.2023.
+----------------------
+
+Icons
+-------
+
+Added new icons: apps 32, 48
