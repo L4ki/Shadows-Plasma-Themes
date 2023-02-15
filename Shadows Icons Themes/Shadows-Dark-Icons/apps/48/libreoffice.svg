@@ -4,7 +4,7 @@
    height="64"
    version="1.1"
    id="svg6945"
-   sodipodi:docname="libreoffice-startcenter.svg"
+   sodipodi:docname="libreoffice.svg"
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -26,9 +26,9 @@
      showgrid="false"
      inkscape:zoom="3.6875"
      inkscape:cx="32"
-     inkscape:cy="32.135593"
+     inkscape:cy="32"
      inkscape:window-width="1920"
-     inkscape:window-height="1000"
+     inkscape:window-height="1009"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -46,18 +46,6 @@
   </metadata>
   <defs
      id="defs1905">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient11436">
-      <stop
-         style="stop-color:#e580ff;stop-opacity:1"
-         offset="0"
-         id="stop11432" />
-      <stop
-         style="stop-color:#5757ff;stop-opacity:1;"
-         offset="1"
-         id="stop11434" />
-    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient11554">
@@ -3912,15 +3900,6 @@
        y1="64"
        x2="62"
        y2="2"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient11436"
-       id="linearGradient11438"
-       x1="20.65373"
-       y1="11.158378"
-       x2="22.463924"
-       y2="9.2091599"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <circle
@@ -13908,8 +13887,8 @@
              id="g6547">
             <path
                d="m22.892 9.0411-0.85615 0.33612s-0.21562 0.08562-0.21562 0.18708v1.2589s0.0062 0.06697-0.01403 0.08491c-0.02018 0.01794-0.39911 0.26009-0.39911 0.26009s-0.08851 0.02459-0.13821 0c-0.04969-0.02459-0.10231-0.0699-0.10231-0.11814v-1.6587s-0.0058-0.161 0.04239-0.20193c0.04823-0.04092 1.1999-0.69278 1.1999-0.69278s0.09471-0.05487 0.23546-0.01653c0.1325 0.03609 0.30172 0.12097 0.24764 0.561z"
-               id="path6541"
-               style="fill-opacity:1;fill:url(#linearGradient11438)" />
+               fill="url(#linearGradient3008)"
+               id="path6541" />
             <path
                d="m22.865 11.197h-1.0926s-0.09715-0.0062-0.13642 0.06408-0.03307 0.15296 0.0021 0.17776c0.03514 0.0248 0.76066 0.43407 0.7896 0.44854s0.14882 0.04341 0.26561-0.02584c0.1881-0.07855 0.18363-0.14882 0.17123-0.3948 0-0.18462 0.0017-0.20321 5.04e-4 -0.26975z"
                fill="url(#linearGradient3028)"
