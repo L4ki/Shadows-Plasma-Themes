@@ -864,3 +864,11 @@ Icons
 -------
 
 Added new icons: apps 32, 48
+
+Changelog: 01.03.2023.
+----------------------
+
+Icons
+-------
+
+Added new icons: apps 32, 48
