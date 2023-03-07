@@ -872,3 +872,12 @@ Icons
 -------
 
 Added new icons: apps 32, 48
+
+
+Changelog: 07.03.2023.
+----------------------
+
+Plasma Theme
+-------------
+
+Added icon: process.svg
