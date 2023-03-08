@@ -881,3 +881,11 @@ Plasma Theme
 -------------
 
 Added icon: process.svg
+
+Changelog: 08.03.2023.
+----------------------
+
+Icons
+-------
+
+Added new icons: apps 32, 48
