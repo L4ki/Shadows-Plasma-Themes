@@ -905,3 +905,11 @@ Icons
 -------
 
 Added new icons: apps 32, 48
+
+Changelog: 21.03.2023.
+----------------------
+
+Plasma Theme
+-------------
+
+Added icon: org.rnd2.cpupower_gui.svg
