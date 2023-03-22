@@ -913,3 +913,11 @@ Plasma Theme
 -------------
 
 Added icon: org.rnd2.cpupower_gui.svg
+
+Changelog: 22.03.2023.
+----------------------
+
+Icons
+-------
+
+Added new icons: apps 32, 48
