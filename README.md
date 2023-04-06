@@ -950,3 +950,11 @@ Plasma Theme
 -------------
 
 Added icon: antimicro.svg
+
+Changelog: 06.04.2023.
+----------------------
+
+Icons
+-------
+
+Added new icons: apps 32, 48
