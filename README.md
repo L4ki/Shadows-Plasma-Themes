@@ -963,6 +963,11 @@ Added new icons: apps 32, 48
 Changelog: 11.04.2023.
 ----------------------
 
+GTK Theme
+----------
+
+Update: entry-background-insensitive.png
+
 Plasma Theme
 -------------
 
