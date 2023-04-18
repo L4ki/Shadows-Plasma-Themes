@@ -980,3 +980,17 @@ Icons
 -------
 
 Added new icons: apps 32, 48
+
+
+Changelog: 18.04.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update:  tab-up-activee.png
+
+Plasma Theme
+-------------
+
+Update widget: viewitem.svg
