@@ -988,7 +988,7 @@ Changelog: 18.04.2023.
 GTK Theme
 ----------
 
-Update:  tab-up-activee.png
+Update:  tab-up-active.png
 
 Plasma Theme
 -------------
