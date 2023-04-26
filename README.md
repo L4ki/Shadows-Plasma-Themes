@@ -1002,3 +1002,16 @@ Icons
 -------
 
 Added new icons: apps 32, 48
+
+Changelog: 26.04.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update: entry-background-insensitive.png
+
+Plasma Theme
+-------------
+
+Update widget: listitem.svg
