@@ -1015,3 +1015,8 @@ Plasma Theme
 -------------
 
 Update widget: listitem.svg
+
+Window Decorations (Aurorae Themes)
+------------------------------------
+
+Update: decoration.svg
