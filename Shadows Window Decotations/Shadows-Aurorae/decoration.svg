@@ -4,7 +4,7 @@
    height="310"
    id="svg3642"
    sodipodi:version="0.32"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="decoration.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
@@ -26,14 +26,14 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.99999999"
-     inkscape:cx="186"
-     inkscape:cy="241.5"
+     inkscape:cx="142.5"
+     inkscape:cy="241"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1010"
+     inkscape:window-height="1005"
      inkscape:window-x="0"
      inkscape:window-y="0"
      width="48px"
@@ -1194,29 +1194,24 @@
          class="ColorScheme-Background" />
     </g>
     <g
-       id="decoration-center-5"
-       transform="translate(373.59594,0.50011015)"
-       style="fill:#000000;fill-opacity:1">
+       id="mask-center">
       <rect
-         y="-254.99977"
-         x="205"
+         y="-628.5957"
+         x="205.50012"
          height="144.99957"
          width="86.000008"
          id="rect985-2"
          style="opacity:0.01;fill:#000000;fill-opacity:1"
          transform="rotate(90)" />
-      <g
-         id="mask-center">
-        <rect
-           transform="rotate(90)"
-           style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.999998"
-           id="rect997-5"
-           width="86.000008"
-           height="145"
-           x="205"
-           y="-254.99998"
-           class="ColorScheme-Background" />
-      </g>
+      <rect
+         transform="rotate(90)"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.999998"
+         id="rect997-5"
+         width="86.000008"
+         height="145"
+         x="205.50012"
+         y="-628.59595"
+         class="ColorScheme-Background" />
     </g>
   </g>
 </svg>
