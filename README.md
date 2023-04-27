@@ -1020,3 +1020,11 @@ Window Decorations (Aurorae Themes)
 ------------------------------------
 
 Update: decoration.svg
+
+Changelog: 27.04.2023.
+----------------------
+
+Icons
+-------
+
+Added new icons: apps 32, 48
