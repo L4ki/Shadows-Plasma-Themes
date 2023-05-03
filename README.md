@@ -1028,3 +1028,16 @@ Icons
 -------
 
 Added new icons: apps 32, 48
+
+Changelog: 03.05.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update: focus.png
+
+Plasma Theme
+-------------
+
+Update widget: line.svg
