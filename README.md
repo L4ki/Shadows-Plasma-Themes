@@ -1041,3 +1041,21 @@ Plasma Theme
 -------------
 
 Update widget: line.svg
+
+Changelog: 10.05.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update: frame.png
+
+Plasma Theme
+-------------
+
+Update widget: panel-background.svg
+
+Icons
+-------
+
+Added new icons: apps 32, 48
