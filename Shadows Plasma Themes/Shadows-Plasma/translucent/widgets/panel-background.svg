@@ -5,7 +5,7 @@
    viewBox="0 0 240 80"
    id="svg2"
    version="1.1"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="panel-background.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -123,17 +123,17 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.5198472"
-     inkscape:cx="93.656473"
-     inkscape:cy="21.231446"
+     inkscape:zoom="1.7818011"
+     inkscape:cx="110.00106"
+     inkscape:cy="62.577132"
      inkscape:document-units="px"
-     inkscape:current-layer="shadow-topright"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:showpageshadow="false"
      borderlayer="false"
      units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-height="1005"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -148,7 +148,8 @@
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:document-rotation="0"
      inkscape:lockguides="false"
-     inkscape:pagecheckerboard="0">
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid3336"
@@ -304,20 +305,20 @@
        id="hint-bottom-margin"
        style="opacity:0.01;fill:#007aa5;fill-opacity:1;stroke:none;stroke-width:0.707108" />
     <rect
-       y="-63.999977"
+       y="-64"
        x="933.16223"
-       height="1.9999847"
+       height="6"
        width="2"
        id="hint-right-margin"
-       style="opacity:0.01;fill:#007aa5;fill-opacity:1;stroke:none;stroke-width:0.70711"
+       style="opacity:0.01;fill:#007aa5;fill-opacity:1;stroke:none;stroke-width:1.22474"
        transform="rotate(90)" />
     <rect
-       style="opacity:0.01;fill:#007aa5;fill-opacity:1;stroke:none;stroke-width:0.707108"
+       style="opacity:0.01;fill:#007aa5;fill-opacity:1;stroke:none;stroke-width:1.11803"
        id="hint-left-margin"
        width="2"
-       height="2.0000019"
+       height="5.0000038"
        x="952.36218"
-       y="-22.000002"
+       y="-25"
        transform="rotate(90)" />
     <g
        id="mask-top"
