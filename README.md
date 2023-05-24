@@ -1077,3 +1077,21 @@ Icons
 -------
 
 Added new icons: apps 32, 48
+
+Changelog: 24.05.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update: gtkrc
+
+Plasma Theme
+-------------
+
+Added icon: yakuake.svg
+
+Icons
+-------
+
+Added new icons: apps 32, 48
