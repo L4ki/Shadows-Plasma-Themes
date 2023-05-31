@@ -1095,3 +1095,21 @@ Icons
 -------
 
 Added new icons: apps 32, 48
+
+Changelog: 31.05.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update:  tab-up.png
+
+Plasma Theme
+-------------
+
+Added icon: accessories.svg
+
+Icons
+-------
+
+Added new icons: apps 32, 48
