@@ -1113,3 +1113,21 @@ Icons
 -------
 
 Added new icons: apps 32, 48
+
+Changelog: 07.06.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update: menubar-item-active.png
+
+Plasma Theme
+-------------
+
+Added icon: lutris.svg
+
+Icons
+-------
+
+Added new icons: apps 32, 48
