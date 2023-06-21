@@ -1149,3 +1149,26 @@ Icons
 -------
 
 Added new icons: apps 32, 48
+
+Changelog: 21.06.2023.
+----------------------
+
+Aurorae Themes
+--------------
+
+Update: Auroraerc
+
+GTK Theme
+----------
+
+Update:  tab-right-active.png, tab-left-active.png
+
+Plasma Theme
+-------------
+
+Update: metadata.desktop
+
+Icons
+-------
+
+Added new icons: apps 32, 48
