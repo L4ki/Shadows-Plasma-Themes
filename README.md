@@ -1172,3 +1172,21 @@ Icons
 -------
 
 Added new icons: apps 32, 48
+
+Changelog: 28.06.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update:  progressbar-horz.png
+
+Plasma Theme
+-------------
+
+Added icon: offline.svg
+
+Icons
+-------
+
+Added new icons: apps 32, 48
