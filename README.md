@@ -1190,3 +1190,21 @@ Icons
 -------
 
 Added new icons: apps 32, 48
+
+Changelog: 05.07.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update:  gtk-3.0
+
+Plasma Theme
+-------------
+
+Added icon: sirikali.svg
+
+Icons
+-------
+
+Added new icons: apps 32, 48
