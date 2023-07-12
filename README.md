@@ -1208,3 +1208,21 @@ Icons
 -------
 
 Added new icons: apps 32, 48
+
+Changelog: 12.07.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update:  dash-symbolic.svg
+
+Plasma Theme
+-------------
+
+Added widget: analog_meter.svg
+
+Icons
+-------
+
+Added new icons: apps 32, 48
