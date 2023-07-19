@@ -1226,3 +1226,22 @@ Icons
 -------
 
 Added new icons: apps 32, 48
+
+
+Changelog: 19.07.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update: bullet-symbolic.svg
+
+Plasma Theme
+-------------
+
+Added icon: slc.svg
+
+Icons
+-------
+
+Added new icons: apps 32, 48
