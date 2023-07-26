@@ -1245,3 +1245,22 @@ Icons
 -------
 
 Added new icons: apps 32, 48
+
+
+Changelog: 26.07.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update: checkmark-symbolic.svg
+
+Plasma Theme
+-------------
+
+Added widget: radiobutton.svg
+
+Icons
+-------
+
+Added new icons: apps 32, 48
