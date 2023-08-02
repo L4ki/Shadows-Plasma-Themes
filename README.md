@@ -1264,3 +1264,21 @@ Icons
 -------
 
 Added new icons: apps 32, 48
+
+Changelog: 02.08.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update: gtk-2.0
+
+Plasma Theme
+-------------
+
+Added widget: switch.svg
+
+Icons
+-------
+
+Added new icons: apps 32, 48
