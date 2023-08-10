@@ -1283,7 +1283,7 @@ Icons
 
 Added new icons: apps 32, 48
 
-Changelog: 09.08.2023.
+Changelog: 10.08.2023.
 ----------------------
 
 GTK Theme
