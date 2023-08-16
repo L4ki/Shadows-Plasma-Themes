@@ -1300,3 +1300,21 @@ Icons
 -------
 
 Added new icons: apps 32, 48
+
+Changelog: 17.08.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update: hacks-dark.rc
+
+Plasma Theme
+-------------
+
+Update widget: margins-highlight.svg
+
+Icons
+-------
+
+Added new icons: apps 32, 48
