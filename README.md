@@ -1318,3 +1318,21 @@ Icons
 -------
 
 Added new icons: apps 32, 48
+
+Changelog: 24.08.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update: gtkrc
+
+Plasma Theme
+-------------
+
+Added widget: picker.svg
+
+Icons
+-------
+
+Added new icons: apps 32, 48
