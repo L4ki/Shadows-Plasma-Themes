@@ -1336,3 +1336,22 @@ Icons
 -------
 
 Added new icons: apps 32, 48
+
+
+Changelog: 31.08.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update: tab-down-active.png
+
+Plasma Theme
+-------------
+
+Added widget: media-delegate.svg
+
+Icons
+-------
+
+Added new icons: apps 32, 48
