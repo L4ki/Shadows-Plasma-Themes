@@ -1355,3 +1355,21 @@ Icons
 -------
 
 Added new icons: apps 32, 48
+
+Changelog: 07.09.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update: tab-up-active.png
+
+Plasma Theme
+-------------
+
+Added: wind-arrows.svg
+
+Icons
+-------
+
+Added new icons: apps 32, 48
