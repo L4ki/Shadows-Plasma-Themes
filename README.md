@@ -1373,3 +1373,21 @@ Icons
 -------
 
 Added new icons: apps 32, 48
+
+Changelog: 14.09.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update: border.png
+
+Plasma Theme
+-------------
+
+Added icon: image.svg
+
+Icons
+-------
+
+Added new icons: apps 32, 48
