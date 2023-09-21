@@ -1391,3 +1391,21 @@ Icons
 -------
 
 Added new icons: apps 32, 48
+
+Changelog: 21.09.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update: frame-notebook.png
+
+Plasma Theme
+-------------
+
+Added widget: translucentbackground.svg
+
+Icons
+-------
+
+Added new icons: apps 32, 48
