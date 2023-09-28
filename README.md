@@ -1409,3 +1409,21 @@ Icons
 -------
 
 Added new icons: apps 32, 48
+
+Changelog: 28.09.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update: frame.png
+
+Plasma Theme
+-------------
+
+Update widget: actionbutton.svg
+
+Icons
+-------
+
+Added new icons: apps 32, 48
