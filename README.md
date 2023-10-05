@@ -1427,3 +1427,21 @@ Icons
 -------
 
 Added new icons: apps 32, 48
+
+Changelog: 05.10.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update: frame-inline.png
+
+Plasma Theme
+-------------
+
+Added icon: transform.svg
+
+Icons
+-------
+
+Added new icons: apps 32, 48
