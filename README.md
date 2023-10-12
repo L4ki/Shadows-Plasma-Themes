@@ -1445,3 +1445,21 @@ Icons
 -------
 
 Added new icons: apps 32, 48
+
+Changelog: 12.10.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update: focus.png
+
+Plasma Theme
+-------------
+
+Added icon: thunderbird.svg
+
+Icons
+-------
+
+Added new icons: apps 32, 48
