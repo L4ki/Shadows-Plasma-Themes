@@ -1482,3 +1482,21 @@ Icons
 
 Added new icons: apps 32, 48
 
+Changelog: 26.10.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update: handle.png
+
+Plasma Theme
+-------------
+
+Update widget: panel-background.svg
+
+Icons
+-------
+
+Added new icons: apps 32, 48
+
