@@ -1500,3 +1500,21 @@ Icons
 
 Added new icons: apps 32, 48
 
+Changelog: 02.11.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update: treeview-separator-ltr.png
+
+Plasma Theme
+-------------
+
+Update widget: background.svg (dialogs)
+
+Icons
+-------
+
+Added new icons: apps 32, 48
+
