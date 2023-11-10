@@ -1518,3 +1518,21 @@ Icons
 
 Added new icons: apps 32, 48
 
+Changelog: 10.11.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update: treeview-separator-rtl.png
+
+Plasma Theme
+-------------
+
+Added icon: search.svg
+
+Icons
+-------
+
+Added new icons: apps 32, 48
+
