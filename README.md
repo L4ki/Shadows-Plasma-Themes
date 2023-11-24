@@ -1554,3 +1554,21 @@ Icons
 
 Added new icons: apps 32, 48
 
+Changelog: 24.11.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update: progressbar-horz-trough.png
+
+Plasma Theme
+-------------
+
+Update widget: button.svg
+
+Icons
+-------
+
+Added new icons: apps 32, 48
+
