@@ -1572,3 +1572,22 @@ Icons
 
 Added new icons: apps 32, 48
 
+
+Changelog: 01.12.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update: styles
+
+Plasma Theme
+-------------
+
+Update widget: clock.svg
+
+Icons
+-------
+
+Added new icons: apps 32, 48
+
