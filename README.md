@@ -1627,3 +1627,8 @@ Icons
 
 Added new icons: apps 32, 48
 
+GTK Theme
+----------
+
+Update: checkbox-checked-insensitive.png
+
