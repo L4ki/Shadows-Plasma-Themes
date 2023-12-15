@@ -1609,3 +1609,21 @@ Icons
 
 Added new icons: apps 32, 48
 
+Changelog: 15.12.2023.
+----------------------
+
+Aurorae Themes
+---------------
+
+Update: alldesktops.svg
+
+Plasma Theme
+-------------
+
+Update widget: arrows.svg
+
+Icons
+-------
+
+Added new icons: apps 32, 48
+
