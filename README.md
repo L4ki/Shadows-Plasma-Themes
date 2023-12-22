@@ -1632,3 +1632,26 @@ GTK Theme
 
 Update: checkbox-checked-insensitive.png
 
+Changelog: 22.12.2023.
+----------------------
+
+Aurorae Themes
+---------------
+
+Update: keepabove.svg
+
+Plasma Theme
+-------------
+
+Added icon: fcitx.svg
+
+Icons
+-------
+
+Added new icons: apps 32, 48
+
+GTK Theme
+----------
+
+Update: gtkrc
+
