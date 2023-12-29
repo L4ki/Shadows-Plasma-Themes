@@ -1655,3 +1655,25 @@ GTK Theme
 
 Update: gtkrc
 
+Changelog: 29.12.2023.
+----------------------
+
+Aurorae Themes
+---------------
+
+Update: close.svg
+
+Plasma Theme
+-------------
+
+Update widget: switch.svg
+
+Icons
+-------
+
+Added new icons: apps 32, 48
+
+GTK Theme
+----------
+
+Update: gtk-4.0
