@@ -1677,3 +1677,21 @@ GTK Theme
 ----------
 
 Update: gtk-4.0
+
+Changelog: 10.01.2024.
+----------------------
+
+Aurorae Themes
+---------------
+
+Update: shade.svg
+
+Plasma Theme
+-------------
+
+Update icon: telegram.svg
+
+Icons
+-------
+
+Added new icons: apps 48
