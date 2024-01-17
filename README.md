@@ -1695,3 +1695,22 @@ Icons
 -------
 
 Added new icons: apps 48
+
+
+Changelog: 17.01.2024.
+----------------------
+
+Aurorae Themes
+---------------
+
+Update: restore.svg
+
+Plasma Theme
+-------------
+
+Added icon: solaar.svg
+
+Icons
+-------
+
+Added new icons: apps 48
