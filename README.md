@@ -32,18 +32,18 @@ Screenshots:
 
 
 
-Changelog: 24.01.2024.
+Changelog: 31.01.2024.
 ----------------------
 
 Aurorae Themes
 ---------------
 
-Update: restore.svg
+Update: keepbelow.svg
 
 Plasma Theme
 -------------
 
-Added icon: ime.svg
+Added icon: skype.svg
 
 Icons
 -------
