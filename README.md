@@ -48,7 +48,7 @@ Plasma Theme
 Added icon: skype.svg
 
 
-Changelog: 16.02.2024.
+Changelog: 23.02.2024.
 ----------------------
 
 Icons
