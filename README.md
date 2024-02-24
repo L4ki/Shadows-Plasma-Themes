@@ -39,4 +39,17 @@ Changelog: 23.02.2024.
 Icons
 -------
 
-Added new icons: apps 48
+Plasma Theme
+------------
+
+Added icon: strawberry.svg
+
+GTK Theme
+---------
+
+Update: main.rc
+
+Aurorae Themes
+--------------
+
+Update: maximize.svg
