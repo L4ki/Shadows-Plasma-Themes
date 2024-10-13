@@ -33,23 +33,7 @@ Screenshots:
 _____________________________________________________________________________________
 
 
-Changelog: 23/24.02.2024.
+Changelog: 13.10.2024.
 ----------------------
 
-Icons
--------
-
-Plasma Theme
-------------
-
-Added icon: strawberry.svg
-
-GTK Theme
----------
-
-Update: main.rc
-
-Aurorae Themes
---------------
-
-Update: maximize.svg
+Added SDDM theme "Shadows-SDDM" for Plasma 6
