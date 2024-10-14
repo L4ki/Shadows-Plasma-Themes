@@ -209,25 +209,25 @@ Item {
                 actionItemsVisible: !inputPanel.keyboardActive
                 actionItems: [
                     ActionButton {
-                        iconSource: "/usr/share/sddm/themes/Shadows-SDDM-6/assets/suspend_primary.svg"
+                        iconSource: "/usr/share/sddm/themes/Shadows-SDDM-6.1.0/assets/suspend_primary.svg"
                         text: i18ndc("plasma_lookandfeel_org.kde.lookandfeel", "Suspend to RAM", "Sleep")
                         onClicked: sddm.suspend()
                         enabled: sddm.canSuspend
                     },
                     ActionButton {
-                        iconSource: "/usr/share/sddm/themes/Shadows-SDDM-6/assets/restart_primary.svg"
+                        iconSource: "/usr/share/sddm/themes/Shadows-SDDM-6.1.0/assets/restart_primary.svg"
                         text: i18nd("plasma_lookandfeel_org.kde.lookandfeel", "Restart")
                         onClicked: sddm.reboot()
                         enabled: sddm.canReboot
                     },
                     ActionButton {
-                        iconSource: "/usr/share/sddm/themes/Shadows-SDDM-6/assets/shutdown_primary.svg"
+                        iconSource: "/usr/share/sddm/themes/Shadows-SDDM-6.1.0/assets/shutdown_primary.svg"
                         text: i18nd("plasma_lookandfeel_org.kde.lookandfeel", "Shut Down")
                         onClicked: sddm.powerOff()
                         enabled: sddm.canPowerOff
                     },
                     ActionButton {
-                        iconSource: "/usr/share/sddm/themes/Shadows-SDDM-6/assets/other_primary"
+                        iconSource: "/usr/share/sddm/themes/Shadows-SDDM-6.1.0/assets/other_primary"
                         text: i18ndc("plasma_lookandfeel_org.kde.lookandfeel", "For switching to a username and password prompt", "Other…")
                         onClicked: mainStack.push(userPromptComponent)
                         enabled: true
@@ -349,28 +349,28 @@ Item {
                 actionItemsVisible: !inputPanel.keyboardActive
                 actionItems: [
                     ActionButton {
-                        iconSource: "/usr/share/sddm/themes/Shadows-SDDM-6/assets/suspend_primary.svg"
+                        iconSource: "/usr/share/sddm/themes/Shadows-SDDM-6.1.0/assets/suspend_primary.svg"
                         text: i18ndc("plasma_lookandfeel_org.kde.lookandfeel", "Suspend to RAM", "Sleep")
 
                         onClicked: sddm.suspend()
                         enabled: sddm.canSuspend
                     },
                     ActionButton {
-                        iconSource: "/usr/share/sddm/themes/Shadows-SDDM-6/assets/restart_primary.svg"
+                        iconSource: "/usr/share/sddm/themes/Shadows-SDDM-6.1.0/assets/restart_primary.svg"
                         text: i18nd("plasma_lookandfeel_org.kde.lookandfeel", "Restart")
 
                         onClicked: sddm.reboot()
                         enabled: sddm.canReboot
                     },
                     ActionButton {
-                        iconSource: "/usr/share/sddm/themes/Shadows-SDDM-6/assets/shutdown_primary.svg"
+                        iconSource: "/usr/share/sddm/themes/Shadows-SDDM-6.1.0/assets/shutdown_primary.svg"
                         text: i18nd("plasma_lookandfeel_org.kde.lookandfeel", "Shut Down")
 
                         onClicked: sddm.powerOff()
                         enabled: sddm.canPowerOff
                     },
                     ActionButton {
-                        iconSource: "/usr/share/sddm/themes/Shadows-SDDM-6/assets/switch_primary.svg"
+                        iconSource: "/usr/share/sddm/themes/Shadows-SDDM-6.1.0/assets/switch_primary.svg"
                         text: i18nd("plasma_lookandfeel_org.kde.lookandfeel", "List Users")
 
                         onClicked: mainStack.pop()
